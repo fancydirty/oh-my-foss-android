@@ -565,6 +565,12 @@
 
   一个支持超分辨率的在线动漫弹幕APP。多平台，多番剧源，多弹幕，高清无广告。
 
+- [Waifu Deck](https://github.com/fancydirty/waifu-deck)
+  [[网站](https://waifudeck.app/zh/)]\*
+  <sub><img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/fancydirty/waifu-deck?style=flat"></sub>
+
+  开源无广告的二次元插画聚合与收藏应用，将 10 个图源整合成统一的滑卡流，原图离线保存在本地防删帖，并支持通过单个 API Token 一键绑定 Cloudflare R2、Bunny、Backblaze B2、WebDAV、Google Drive 或 OneDrive 进行客户端端到端加密多设备同步与仅云端按需流式看图。
+
 #### 绘画
 
 - [Pocket Paint（口袋画板）](https://github.com/Catrobat/Paintroid)
